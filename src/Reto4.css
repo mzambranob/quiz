@@ -1,0 +1,42 @@
+.reto4 {
+  margin: 20px 0;
+  padding: 20px 30px;
+  font-family: sans-serif;
+}
+
+.reto4 h1 {
+  font-weight: normal;
+}
+
+.reto4 h2 {
+  font-weight: normal;
+  font-variant-numeric: tabular-nums;
+}
+
+.reto4-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.reto4-buttons button {
+  width: 80px;
+  height: 80px;
+  border: none;
+  border-radius: 6px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.reto4-start {
+  background-color: green;
+  color: white;
+}
+
+.reto4-stop {
+  background-color: red;
+  color: white;
+}
+
+.reto4-reset {
+  background-color: yellow;
+}

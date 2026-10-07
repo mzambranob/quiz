@@ -1,0 +1,43 @@
+.progress {
+  width: 360px;
+  margin: 20px 0;
+  padding: 30px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.progress-title {
+  font-weight: normal;
+}
+
+.progress-track {
+  height: 22px;
+  border-radius: 11px;
+  background-color: #bbb;
+}
+
+.progress-fill {
+  height: 100%;
+  min-width: 36px;
+  border-radius: 11px;
+  background-color: #f0506e;
+  color: white;
+  font-size: 12px;
+  line-height: 22px;
+  text-align: right;
+  padding-right: 6px;
+  box-sizing: border-box;
+}
+
+.progress-input {
+  margin-top: 16px;
+  font-size: 13px;
+}
+
+.progress-input input {
+  width: 50px;
+  margin-left: 8px;
+  padding: 4px 8px;
+  border: 1px solid #555;
+  border-radius: 14px;
+}

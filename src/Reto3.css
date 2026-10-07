@@ -1,0 +1,31 @@
+.reto3 {
+  max-width: 360px;
+  margin: 20px 0;
+  padding: 20px 30px;
+  font-family: sans-serif;
+}
+
+.reto3 td {
+  padding: 4px 8px 4px 0;
+}
+
+.reto3 input {
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.reto3 button {
+  margin-top: 10px;
+  padding: 6px 16px;
+  border: none;
+  border-radius: 4px;
+  background-color: #343a40;
+  color: white;
+  cursor: pointer;
+}
+
+.reto3-errors {
+  color: #d33;
+  font-size: 14px;
+}
